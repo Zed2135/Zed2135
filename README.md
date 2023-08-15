@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yanlin Zhou.
-I graduated with degree of Electrical Engineering in both Chongqing University and University of Cincinnati.
-I am currently working on my master degree on Computer Science in Chongqing University.
+
+I am currently working on my PhD degree on Computer Science in George Mason University.
 - 👀 I’m interested in both hardware and software.
 - 🌱 I’m currently learning user interface and wireless communication techniques for our UAV project.
 - 💞️ I’m looking to collaborate on embedded device projects or any interesting projects.
