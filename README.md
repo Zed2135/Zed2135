@@ -4,7 +4,7 @@ I am currently working on my PhD degree on Computer Science in George Mason Univ
 - 👀 I’m interested in both hardware and software.
 - 🌱 I’m currently learning user interface and wireless communication techniques for our UAV project.
 - 💞️ I’m looking to collaborate on embedded device projects or any interesting projects.
-- 📫 If you are interested, please contact me via 570486155@qq.com or zhou2yi@mail.uc.edu. I prefer the first email since I check it every day.
+- 📫 If you are interested, please contact me via yzhou30@gmu.edu.
 
 <!---
 Zed2135/Zed2135 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
